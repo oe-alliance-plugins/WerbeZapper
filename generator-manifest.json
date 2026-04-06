@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Werbezapper-Plugin for Enigma2",
+  "description_recipe": "Werbezapper-Plugin for Enigma2",
+  "history_source_dir": "werbezapper",
+  "internal_package_name": "enigma2-plugin-extensions-werbezapper",
+  "module_dir_name": "WerbeZapper",
+  "output_subdir": "werbezapper",
+  "package_name": "enigma2-plugin-extensions-werbezapper",
+  "plugin_src_rel": "werbezapper",
+  "python_package": "WerbeZapper",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "WerbeZapper",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
