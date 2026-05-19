@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 - werbezapper\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-27 21:29+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2009-09-27 18:18+0100\n"
 "Last-Translator: maja <jovanovic@gmx.ch>\n"
 "Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
@@ -16,34 +16,44 @@ msgstr ""
 "X-Poedit-Basepath: /home/dario/Plugins/werbezapper\n"
 "X-Poedit-SearchPath-0: /home/dario/Plugins/werbezapper\n"
 
+#: ../plugin.py:52
 msgid "Automatically zaps back to current service after given Time"
 msgstr "Automatski prebaci na aktuelni kanal posle datog vremena"
 
+#: ../WerbeZapper.py:119
 msgid "Custom"
 msgstr "Personalizovan"
 
+#: ../WerbeZapper.py:183
 msgid "How many minutes to wait until zapping back?"
 msgstr "Koliko vremena čekati pre prebacivanja nazad?"
 
+#: ../WerbeZapper.py:68
 #, python-format
 msgid "Monitoring: %s (%d:%02d Min)"
 msgstr ""
 
+#: ../WerbeZapper.py:154
 msgid "Rezap"
 msgstr ""
 
+#: ../plugin.py:59
 msgid "Start / Stop monitoring instantly"
 msgstr ""
 
+#: ../WerbeZapper.py:138
 msgid "Start monitoring"
 msgstr ""
 
+#: ../WerbeZapper.py:136
 msgid "Stop monitoring"
 msgstr ""
 
+#: ../WerbeZapper.py:147
 msgid "Stop timer"
 msgstr ""
 
+#: ../WerbeZapper.py:263
 #, python-format
 msgid ""
 "WerbeZapper\n"
@@ -51,6 +61,7 @@ msgid ""
 "%s"
 msgstr ""
 
+#: ../WerbeZapper.py:242
 #, python-format
 msgid ""
 "WerbeZapper\n"
@@ -58,28 +69,37 @@ msgid ""
 "%s"
 msgstr ""
 
+#: ../WerbeZapper.py:250
 msgid ""
 "WerbeZapper\n"
 "Monitoring started unlimited\n"
 "Has to be deactivated manually"
 msgstr ""
 
+#: ../WerbeZapper.py:114
 msgid "When to Zap back?"
 msgstr "Kada prebaciti nazad?"
 
+#: ../WerbeZapper.py:330
 msgid "Zapping back"
 msgstr ""
 
+#: ../WerbeZapper.py:297
 #, python-format
 msgid "Zapping back in %d Minute(s)"
 msgstr ""
 
+#: ../WerbeZapper.py:72
 #, python-format
 msgid "Zapping back in %d:%02d Min"
 msgstr ""
 
+#: ../WerbeZapper.py:120
 msgid "minute"
 msgstr "Minuta"
 
+#: ../WerbeZapper.py:121 ../WerbeZapper.py:122 ../WerbeZapper.py:123
+#: ../WerbeZapper.py:124 ../WerbeZapper.py:125 ../WerbeZapper.py:126
+#: ../WerbeZapper.py:127 ../WerbeZapper.py:128
 msgid "minutes"
 msgstr "Minuti"
